@@ -8,3 +8,7 @@ var player1 = new Player("Stamie");
 console.log(potion1);
 
 console.log(player1);
+
+console.log(player1.getHealth());
+
+console.log(player1.getInventory());
